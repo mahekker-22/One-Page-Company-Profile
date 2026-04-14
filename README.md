@@ -26,7 +26,9 @@ Market Capitalization     -   INR 367,301 Crs
 
 The company maintains a diverse ownership structure dominated by Domestic Institutional Investors (DIIs) at 48.90%, followed by Foreign Institutional Investors (FIIs) at 36.11%. Major shareholders include Tobacco Manufacturers (India) Limited and Life Insurance Corporation of India.
 
-**Prepared by**: Ker Mahekkumar 
+**Disclaimer**
+ 
+This project is created for academic purposes only and is not affiliated with or endorsed by ITC. All data used is sourced from publicly available information
 
+**Prepared by**:  Mahekkumar Ker 
 
-**Status:** Academic Project - April 2026
